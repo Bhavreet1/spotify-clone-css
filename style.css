@@ -335,7 +335,7 @@ h2 {
     height: .25rem;
     background-color: transparent;
     cursor: pointer;
-    appearance: none;
+    /* appearance: none; */
     border-radius: 20px;
 }
 .progress::-webkit-slider-runnable-track{
@@ -358,7 +358,7 @@ h2 {
     width: 7.5rem;
     cursor: pointer;
     appearance: none;
-    /* background-color: transparent; */
+    background-color: transparent;
 }
 .progress2::-webkit-slider-runnable-track{
     background-color: #ddd;
